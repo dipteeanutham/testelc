@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="elcBuy Automation Testing" duration-ms="336254" started-at="2018-10-01T07:51:05Z" finished-at="2018-10-01T07:56:42Z">
+    <groups>
+    </groups>
+    <test name="elcBuy Test Cases1" duration-ms="144338" started-at="2018-10-01T07:51:05Z" finished-at="2018-10-01T07:53:30Z">
+      <class name="com.elc.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.elc.qa.testcases.LoginPageTest@6eebc39e]" name="setUp" is-config="true" duration-ms="48794" started-at="2018-10-01T07:51:05Z" finished-at="2018-10-01T07:51:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTitleTest()[pri:1, instance:com.elc.qa.testcases.LoginPageTest@6eebc39e]" name="verifyTitleTest" duration-ms="61" started-at="2018-10-01T07:51:54Z" finished-at="2018-10-01T07:51:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.elc.qa.testcases.LoginPageTest@6eebc39e]" name="finish" is-config="true" duration-ms="192" started-at="2018-10-01T07:51:54Z" finished-at="2018-10-01T07:51:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.elc.qa.testcases.LoginPageTest@6eebc39e]" name="setUp" is-config="true" duration-ms="36944" started-at="2018-10-01T07:51:54Z" finished-at="2018-10-01T07:52:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="imageDisplayedTest()[pri:2, instance:com.elc.qa.testcases.LoginPageTest@6eebc39e]" name="imageDisplayedTest" duration-ms="62" started-at="2018-10-01T07:52:31Z" finished-at="2018-10-01T07:52:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imageDisplayedTest -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.elc.qa.testcases.LoginPageTest@6eebc39e]" name="finish" is-config="true" duration-ms="82" started-at="2018-10-01T07:52:31Z" finished-at="2018-10-01T07:52:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.elc.qa.testcases.LoginPageTest@6eebc39e]" name="setUp" is-config="true" duration-ms="45098" started-at="2018-10-01T07:52:31Z" finished-at="2018-10-01T07:53:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTest()[pri:3, instance:com.elc.qa.testcases.LoginPageTest@6eebc39e]" name="loginPageTest" duration-ms="10997" started-at="2018-10-01T07:53:17Z" finished-at="2018-10-01T07:53:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.elc.qa.testcases.LoginPageTest@6eebc39e]" name="finish" is-config="true" duration-ms="2077" started-at="2018-10-01T07:53:28Z" finished-at="2018-10-01T07:53:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.elc.qa.testcases.LoginPageTest -->
+    </test> <!-- elcBuy Test Cases1 -->
+    <test name="Test case 2" duration-ms="191656" started-at="2018-10-01T07:53:30Z" finished-at="2018-10-01T07:56:42Z">
+      <class name="com.elc.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.elc.qa.testcases.HomePageTest@56ef9176]" name="setUp" is-config="true" duration-ms="46871" started-at="2018-10-01T07:53:30Z" finished-at="2018-10-01T07:54:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.elc.qa.testcases.HomePageTest@56ef9176]" name="verifyHomePageTitleTest" duration-ms="16" started-at="2018-10-01T07:54:17Z" finished-at="2018-10-01T07:54:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.elc.qa.testcases.HomePageTest@56ef9176]" name="finish" is-config="true" duration-ms="741" started-at="2018-10-01T07:54:17Z" finished-at="2018-10-01T07:54:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.elc.qa.testcases.HomePageTest@56ef9176]" name="setUp" is-config="true" duration-ms="34192" started-at="2018-10-01T07:54:17Z" finished-at="2018-10-01T07:54:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchTextTest()[pri:2, instance:com.elc.qa.testcases.HomePageTest@56ef9176]" name="searchTextTest" duration-ms="3496" started-at="2018-10-01T07:54:52Z" finished-at="2018-10-01T07:54:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTextTest -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.elc.qa.testcases.HomePageTest@56ef9176]" name="finish" is-config="true" duration-ms="647" started-at="2018-10-01T07:54:55Z" finished-at="2018-10-01T07:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.elc.qa.testcases.HomePageTest@56ef9176]" name="setUp" is-config="true" duration-ms="33374" started-at="2018-10-01T07:54:56Z" finished-at="2018-10-01T07:55:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="orderHistoryTest()[pri:3, instance:com.elc.qa.testcases.HomePageTest@56ef9176]" name="orderHistoryTest" duration-ms="3298" started-at="2018-10-01T07:55:29Z" finished-at="2018-10-01T07:55:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderHistoryTest -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.elc.qa.testcases.HomePageTest@56ef9176]" name="finish" is-config="true" duration-ms="681" started-at="2018-10-01T07:55:33Z" finished-at="2018-10-01T07:55:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.elc.qa.testcases.HomePageTest@56ef9176]" name="setUp" is-config="true" duration-ms="28289" started-at="2018-10-01T07:55:33Z" finished-at="2018-10-01T07:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="shoppingCartSummaryTest()[pri:5, instance:com.elc.qa.testcases.HomePageTest@56ef9176]" name="shoppingCartSummaryTest" duration-ms="4533" started-at="2018-10-01T07:56:01Z" finished-at="2018-10-01T07:56:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingCartSummaryTest -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.elc.qa.testcases.HomePageTest@56ef9176]" name="finish" is-config="true" duration-ms="658" started-at="2018-10-01T07:56:06Z" finished-at="2018-10-01T07:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.elc.qa.testcases.HomePageTest@56ef9176]" name="setUp" is-config="true" duration-ms="29683" started-at="2018-10-01T07:56:07Z" finished-at="2018-10-01T07:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="womenPageTest()[pri:6, instance:com.elc.qa.testcases.HomePageTest@56ef9176]" name="womenPageTest" duration-ms="4471" started-at="2018-10-01T07:56:36Z" finished-at="2018-10-01T07:56:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- womenPageTest -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.elc.qa.testcases.HomePageTest@56ef9176]" name="finish" is-config="true" duration-ms="672" started-at="2018-10-01T07:56:41Z" finished-at="2018-10-01T07:56:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.elc.qa.testcases.HomePageTest -->
+    </test> <!-- Test case 2 -->
+  </suite> <!-- elcBuy Automation Testing -->
+</testng-results>

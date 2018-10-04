@@ -1,0 +1,15 @@
+com\elc\qa\pages\AddtocartPage.class
+com\elc\qa\pages\ProductListPage.class
+com\elc\qa\extentreport\ExtentReport.class
+com\elc\qa\pages\OrderHistoryPage.class
+com\elc\qa\pages\LoginPage.class
+com\elc\qa\pages\ShoppingCartSummary.class
+com\elc\qa\util\Testutil.class
+com\elc\qa\pages\MyWishlistPage.class
+com\elc\qa\pages\HomePage.class
+com\elc\qa\base\TestBase.class
+com\elc\qa\pages\SignupPage.class
+com\elc\qa\pages\SuccessfulShoppingPage.class
+com\elc\qa\util\WebEventListner.class
+com\elc\qa\pages\WomenPage.class
+com\elc\qa\pages\SearchPage.class

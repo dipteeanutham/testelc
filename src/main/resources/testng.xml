@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="elcBuy Automation Testing">
+<listeners>
+<listener class-name="com.elc.qa.extentreport.ExtentReport"/>
+</listeners>
+  <test name="elcBuy Test Cases1">
+      <classes>
+           <class name="com.elc.qa.testcases.LoginPageTest"/>
+      </classes>
+  </test>
+   <test name="Test case 2">
+      <classes>
+             <class name="com.elc.qa.testcases.HomePageTest"/>
+      </classes>   
+   </test>      
+   <!-- <test name="Test case 3">
+       <classes>   
+           <class name="com.elc.qa.testcases.ProductListPageTest"/>
+      </classes>
+    </test>  
+    <test name="Test case 4">
+       <classes>   
+           <class name="com.elc.qa.testcases.AddtocartPageTest"/>
+      </classes>
+    </test>  
+    <test name="Test case 5">
+       <classes>   
+           <class name="com.elc.qa.testcases.SignupPageTest"/>
+      </classes>
+    </test>  
+    <test name="Test case 6">
+       <classes>   
+           <class name="com.elc.qa.testcases.WomenPageTest"/>
+      </classes>
+    </test>    -->
+</suite>

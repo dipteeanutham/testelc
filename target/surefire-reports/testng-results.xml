@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="180062" started-at="2018-10-02T04:42:47Z" finished-at="2018-10-02T04:45:47Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="180062" started-at="2018-10-02T04:42:47Z" finished-at="2018-10-02T04:45:47Z">
+      <class name="com.elc.qa.testcases.MyWishlistPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.elc.qa.testcases.MyWishlistPageTest@9f70c54]" name="setUp" is-config="true" duration-ms="25255" started-at="2018-10-02T04:43:26Z" finished-at="2018-10-02T04:43:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="enterTextinNameFieldTest(java.lang.String)[pri:1, instance:com.elc.qa.testcases.MyWishlistPageTest@9f70c54]" name="enterTextinNameFieldTest" duration-ms="5386" started-at="2018-10-02T04:43:52Z" data-provider="getElcestData" finished-at="2018-10-02T04:43:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Printed Chiffon Dress]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterTextinNameFieldTest -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.elc.qa.testcases.MyWishlistPageTest@9f70c54]" name="finish" is-config="true" duration-ms="273" started-at="2018-10-02T04:43:57Z" finished-at="2018-10-02T04:43:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.elc.qa.testcases.MyWishlistPageTest@9f70c54]" name="setUp" is-config="true" duration-ms="28307" started-at="2018-10-02T04:43:57Z" finished-at="2018-10-02T04:44:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="enterTextinNameFieldTest(java.lang.String)[pri:1, instance:com.elc.qa.testcases.MyWishlistPageTest@9f70c54]" name="enterTextinNameFieldTest" duration-ms="5793" started-at="2018-10-02T04:44:26Z" data-provider="getElcestData" finished-at="2018-10-02T04:44:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Faded Short Sleeve T-shirts]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterTextinNameFieldTest -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.elc.qa.testcases.MyWishlistPageTest@9f70c54]" name="finish" is-config="true" duration-ms="2160" started-at="2018-10-02T04:44:31Z" finished-at="2018-10-02T04:44:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.elc.qa.testcases.MyWishlistPageTest@9f70c54]" name="setUp" is-config="true" duration-ms="31947" started-at="2018-10-02T04:44:34Z" finished-at="2018-10-02T04:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="enterTextinNameFieldTest(java.lang.String)[pri:1, instance:com.elc.qa.testcases.MyWishlistPageTest@9f70c54]" name="enterTextinNameFieldTest" duration-ms="4549" started-at="2018-10-02T04:45:06Z" data-provider="getElcestData" finished-at="2018-10-02T04:45:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Blouse]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterTextinNameFieldTest -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.elc.qa.testcases.MyWishlistPageTest@9f70c54]" name="finish" is-config="true" duration-ms="222" started-at="2018-10-02T04:45:10Z" finished-at="2018-10-02T04:45:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.elc.qa.testcases.MyWishlistPageTest@9f70c54]" name="setUp" is-config="true" duration-ms="32337" started-at="2018-10-02T04:45:10Z" finished-at="2018-10-02T04:45:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="enterTextinNameFieldTest(java.lang.String)[pri:1, instance:com.elc.qa.testcases.MyWishlistPageTest@9f70c54]" name="enterTextinNameFieldTest" duration-ms="4352" started-at="2018-10-02T04:45:43Z" data-provider="getElcestData" finished-at="2018-10-02T04:45:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Printed Summer Dress]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterTextinNameFieldTest -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.elc.qa.testcases.MyWishlistPageTest@9f70c54]" name="finish" is-config="true" duration-ms="125" started-at="2018-10-02T04:45:47Z" finished-at="2018-10-02T04:45:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.elc.qa.testcases.MyWishlistPageTest -->
+      <class name="com.elc.qa.testcases.SignupPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.elc.qa.testcases.SignupPageTest@737996a0]" name="setUp" is-config="true" duration-ms="33643" started-at="2018-10-02T04:42:47Z" finished-at="2018-10-02T04:43:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SignUpBtnTest()[pri:0, instance:com.elc.qa.testcases.SignupPageTest@737996a0]" name="SignUpBtnTest" duration-ms="4093" started-at="2018-10-02T04:43:21Z" finished-at="2018-10-02T04:43:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpBtnTest -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.elc.qa.testcases.SignupPageTest@737996a0]" name="finish" is-config="true" duration-ms="650" started-at="2018-10-02T04:43:25Z" finished-at="2018-10-02T04:43:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.elc.qa.testcases.SignupPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
